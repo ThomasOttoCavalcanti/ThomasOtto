@@ -3,6 +3,7 @@
 *Olá eu sou Thomas Otto, Estudante de Economia e na horas vagas de Data Science aplicado à Macroeconomia e amante dos conteúdos de programação e tecnologia*
 
 <div align="center">
+  <a href="https://github.com/ThomasOttoCavalcanti">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThomasOttoCavalcanti&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasOttoCavalcanti&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
